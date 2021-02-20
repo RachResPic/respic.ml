@@ -1,11 +1,11 @@
 {
-    "name": "respic_web",
-    "short_name": "respic_web",
+    "name": "ResPic - The recipe you need",
+    "short_name": "ResPic - The recipe you need",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Simplifying recipes",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

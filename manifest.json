@@ -1,11 +1,11 @@
 {
-    "name": "ResPic - The recipe you need",
-    "short_name": "ResPic - The recipe you need",
+    "name": "ResPic - ML Recipe App | Food Dating | Pet treats",
+    "short_name": "ResPic - ML Recipe App | Food Dating | Pet treats",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Simplifying recipes",
+    "description": "ML Recipe App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

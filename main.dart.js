@@ -16852,7 +16852,7 @@ n=P.bJ(7,k,!1,t.tI)
 m=t.S
 l=t.u3
 new N.Dz(k,q,!0,new P.aC(new P.X(p,t.U),t.hb),!1,k,!1,!1,k,k,!1,k,!1,0,!1,k,!1,k,new N.Ia(P.c1(t.M)),k,!1,k,!1,o,k,N.ak0(),new Y.zh(N.ak_(),n,t.f7),!1,0,P.y(m,t.b1),P.bc(m),H.c([],l),H.c([],l),k,!1,C.fb,!0,!1,k,C.T,C.T,k,0,k,!1,P.jz(k,t.cL),new O.Ru(P.y(m,t.p6),P.y(t.yd,t.rY)),new D.Oi(P.y(m,t.eK)),new G.Rx(),P.y(m,t.ln),k,!1,!1,C.xh).MM()}q=$.b5
-q.IZ(new S.r7(r,"/home",Z.akT(),new F.a3h(),"ResPic - ML Recipe App",s,!1,k))
+q.IZ(new S.r7(r,"/home",Z.akT(),new F.a3h(),"ResPic - ML Recipe App | Food Dating | Pet treats",s,!1,k))
 q.yI()},
 a3h:function a3h(){},
 nv:function nv(){},
@@ -55046,7 +55046,7 @@ o.toString
 n=t.ru
 q=T.te(a7,a7,C.c4,!0,a7,new Q.bU(a7,H.c([new Q.bU("Res",a7,p),new Q.bU("Pic",a7,B.qs(o,a7,C.w))],n),q),C.au,a7,a7,1,C.b2)
 o=C.an.h(0,800).a
-o=L.cK("Simplifying recipes",a7,A.fL(a7,a7,P.b1(204,o>>>16&255,o>>>8&255,o&255),a7,a7,a7,a7,a7,a7,a7,a7,17,C.n,C.w,a7,a7,!0,1.1,a7,a7,a7,a7,a7))
+o=L.cK("ML Recipe App",a7,A.fL(a7,a7,P.b1(204,o>>>16&255,o>>>8&255,o&255),a7,a7,a7,a7,a7,a7,a7,a7,17,C.n,C.w,a7,a7,!0,1.1,a7,a7,a7,a7,a7))
 p=T.bz(new G.d7(D.eN(a7,U.zm(a8,a7,100,350),C.a_,!1,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,new Y.Z9(),a7,a7,a7,a7,a7,a7),a7),C.aR,a7,a7,!0)
 m=A.abv(0)
 l=T.ab(a7,40,a7)
@@ -55155,7 +55155,7 @@ o.toString
 n=t.ru
 q=T.te(b3,b3,C.c4,!0,b3,new Q.bU(b3,H.c([new Q.bU("Res",b3,p),new Q.bU("Pic",b3,B.qs(o,b3,C.w))],n),q),C.au,b3,b3,1,C.b2)
 o=C.an.h(0,800).a
-o=L.cK("Simplifying recipes",b3,A.fL(b3,b3,P.b1(204,o>>>16&255,o>>>8&255,o&255),b3,b3,b3,b3,b3,b3,b3,b3,17,C.n,C.w,b3,b3,!0,1.1,b3,b3,b3,b3,b3))
+o=L.cK("ML Recipe App",b3,A.fL(b3,b3,P.b1(204,o>>>16&255,o>>>8&255,o&255),b3,b3,b3,b3,b3,b3,b3,b3,17,C.n,C.w,b3,b3,!0,1.1,b3,b3,b3,b3,b3))
 p=T.bz(new G.d7(D.eN(b3,U.zm(b4,b3,100,350),C.a_,!1,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,new Y.Zj(),b3,b3,b3,b3,b3,b3),b3),C.aR,b3,b3,!0)
 m=A.abv(1)
 l=T.ab(b3,10,b3)
